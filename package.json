@@ -1,0 +1,18 @@
+{
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview"
+	},
+	"devDependencies": {
+		"@iconify/json": "^2.1.79",
+		"@pinia/nuxt": "^0.3.0",
+		"@unocss/nuxt": "^0.44.4",
+		"@unocss/reset": "^0.44.4",
+		"@vueuse/nuxt": "^8.9.4",
+		"nuxt": "3.0.0-rc.6",
+		"uuid": "^8.3.2"
+	}
+}

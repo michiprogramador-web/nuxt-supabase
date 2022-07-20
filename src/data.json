@@ -1,0 +1,52 @@
+{
+	"albums": [
+		{
+			"id": 1,
+			"title": "Handmade Cities",
+			"artist": "Plini",
+			"cover": "https://f4.bcbits.com/img/a2040672325_10.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Circadian",
+			"artist": "Intervals",
+			"cover": "https://www.postandprog.com/wp-content/uploads/2020/11/Intervals-cd.jpg"
+		},
+		{
+			"id": 3,
+			"title": "A Place to Breathe",
+			"artist": "Syncatto",
+			"cover": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/5f/af/7e/5faf7eff-8cec-fc0a-4797-7f9f2ac7006c/artwork.jpg/600x600bf-60.jpg"
+		},
+		{
+			"id": 4,
+			"title": "New Levels New Devils",
+			"artist": "Polyphia",
+			"cover": "https://i.scdn.co/image/ab67616d0000b2737a799cc62e624fd6432779e3"
+		},
+		{
+			"id": 5,
+			"title": "Remarkably Human",
+			"artist": "Nick Johnston",
+			"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d3/2f/62d32f3f-7e9d-a0b7-bd4e-9956a3c08aed/190394624446.jpg/600x600bf-60.jpg"
+		},
+		{
+			"id": 6,
+			"title": "The Zenith Rise",
+			"artist": "I Built the Sky",
+			"cover": "https://i.scdn.co/image/ab67616d0000b2734d6a885a40debf248b76bb37"
+		},
+		{
+			"id": 7,
+			"title": "Universal Language",
+			"artist": "Angel Vivaldi",
+			"cover": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/de/5f/37/de5f3758-a08c-8556-bc3f-c5f6c324c4f9/884501531658_cover.jpg/600x600bf-60.jpg"
+		},
+		{
+			"id": 8,
+			"title": "Arch Echo",
+			"artist": "Arch Echo",
+			"cover": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/1b/4c/f2/1b4cf2aa-0104-103b-a7e3-eceb7106b6ff/191061663195.jpg/1200x1200bf-60.jpg"
+		}
+	]
+}
